@@ -1,6 +1,5 @@
-print("hello word")
+print("hello world")
 
 print("test")
 
-
-print("I lvoe jamjooom")
+Hello World
